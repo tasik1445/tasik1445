@@ -11,7 +11,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Computer Vision / Data
 - 👯 I’m looking to collaborate on AI/ML projects, open-source contributions, and research-based applications 
 - 🤔 I’m looking for help with Advanced Deep Learning, MLOps, and production-level AI systems 
 - 💬 Ask me about AI, ML projects, Python, NLP, Computer Vision, and beginner-friendly tech discussions 
-- 📫 How to reach me: tasik8507@gmail.com  | LinkedIn: linkedin.com/in/tasikul-islam-tasik-543282255 
+- 📫 How to reach me: tasik8507@gmail.com  | LinkedIn: [linkedin.com/in/tasikul-islam-tasik-543282255](https://www.linkedin.com/in/tasikul-islam-tasik-543282255/) 
 - ⚡ Fun fact: I enjoy exploring new AI tools, building practical projects, and turning ideas into real solutions 
 
 
