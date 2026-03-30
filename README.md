@@ -17,5 +17,3 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Computer Vision / Data
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tasik1445)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tasikul-islam-tasik-543282255/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/18CKEQK5kT/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_tasik_8507/profilecard/?igsh=cXN2MXFnMGZqNjQ1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/diu.edu.bd/tasikul-islam-tasik?usp=sharing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](tasik8507@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tasik1445&show_icons=true)  
-
