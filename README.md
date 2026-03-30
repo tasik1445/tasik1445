@@ -1,7 +1,6 @@
-## Hi there 👋
-
-
-**tasik1445/tasik1445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Tasikul Islalm Tasik
+#### Aspiring AI Engineer
+![Aspiring AI Engineer](https://github.com/tasik1445/Machine-Learning-Projects/blob/b37996cae1459a92d1049b5b4c0699b36bc93ac2/2.png)
 
 Here are some ideas to get you started:
 
