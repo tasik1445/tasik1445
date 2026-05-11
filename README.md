@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tasikul Islalm Tasik
-#### Aspiring AI Engineer | Final-year ICE Student
+#### Aspiring AI Engineer | Final-year ICE Student | Teaching Assistant
 ![Aspiring AI Engineer | Final-year ICE Student](https://github.com/tasik1445/Machine-Learning-Projects/blob/b37996cae1459a92d1049b5b4c0699b36bc93ac2/2.png)
 
 I am a final-year BSc student in ICE at Daffodil International University, passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Computer Vision. I enjoy building practical projects, solving real-world problems, and continuously improving my technical skills. Currently, I am focused on developing AI-based projects and preparing for internships and entry-level AI Engineer roles.
